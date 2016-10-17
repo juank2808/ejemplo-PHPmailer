@@ -1,4 +1,4 @@
 <?php
 
-$pass= "colombia18";
+$pass= "";
 ?>
